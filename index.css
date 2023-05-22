@@ -10,16 +10,20 @@
   font-family: Verdana, Devaju sans, serif;
 }
 #title {
-    color: blue;
-    font-size: 36px;
+  color: blue;
+  font-size: 36px;
 }
 .cool {
-    background-color: lightpink;
-    color:white;
+  background-color: lightpink;
+  color: white;
 }
 .id {
-    background-color: green;
-    font-size: 32px;
-    font-weight: bold;
-    color:black;
+  background-color: green;
+  font-size: 32px;
+  font-weight: bold;
+  color: black;
+}
+.iam {
+  color: black;
+  background-color: lightpink;
 }
