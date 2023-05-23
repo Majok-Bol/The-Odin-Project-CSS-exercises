@@ -1,7 +1,6 @@
-.css {
-  background-color: red;
+.external {
+  background-color:red;
+  color:white;
   text-align: center;
   font-size: 32px;
-  color: white;
-  font-weight: bold;
 }
