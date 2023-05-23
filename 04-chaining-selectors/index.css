@@ -1,8 +1,12 @@
 .images {
-  width: 210px;
-  height: 600px;
+  width: 200px;
+  height: 800px;
 }
 .two {
-  width: 320px;
-  height: 600px;
+  width: 400px;
+  height: 400px;
+}
+.three {
+    height: 400px;
+    width:380px
 }
